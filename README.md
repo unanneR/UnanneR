@@ -39,8 +39,10 @@ I’m passionate about building projects in **C#, Python, Web Development, and N
   ---
 
 ### 📫 Connect With Me
--📧 Email: unanneradzuma@gmail.com  
--💼 [LinkedIn](www.linkedin.com/in/unanne-radzuma-967634261)  
+👨‍💻 Don’t hesitate to get in touch — you can reach me at **unanneradzuma@gmail.com** to chat about **software engineering,cybersecurity, or career growth in tech.**.  
+🚀 Collaboration: Open to exciting projects with curious and creative minds.   
+📧 Email: unanneradzuma@gmail.com  
+💼 [LinkedIn](www.linkedin.com/in/unanne-radzuma-967634261)  
 
 ---
 ⭐️ From [Unanne](https://github.com/unanneR)
