@@ -1,7 +1,9 @@
 # Hi, I'm Unanne 👋
 
-💻 Aspiring Software Developer | 🌍 Based in South Africa  
-I’m passionate about building projects in **C#, Web Development, and Networking**.
+💻 Aspiring Software Developer | 🌍 Based in Pretoria, South Africa  
+I’m passionate about building projects in **C#, Python, Web Development, and Networking**, and always learning new technologies. 
+
+---
 
 ### 🔧 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -13,14 +15,32 @@ I’m passionate about building projects in **C#, Web Development, and Networkin
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cybersecurity](https://img.shields.io/badge/Security-2E8B57?style=for-the-badge&logo=hackaday&logoColor=white)
 
+---
 
 ### 🚀 Projects
+🔹 [**Portfolio Website**](https://github.com/Unanne/portfolio) – My personal website showcasing projects and skills  
+🔹 [**Data Visualizer**](https://github.com/Unanne/data-visualizer) – Python tool for interactive data visualization  
+🔹 [**Network Lab**](https://github.com/Unanne/network-lab) – Hands-on networking scripts and configs  
+🔹 [**C# Projects**](https://github.com/Unanne/csharp-projects) – Small apps and experiments with C# and .NET  
 
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Unanne&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Unanne&layout=compact&theme=radical)  
+
+---
 
 ### 🌱 Currently Learning
-- Cybersecurity basics
-- Networking basics 
+- Cybersecurity fundamentals (network defense, penetration testing)  
+- Advanced C# and .NET
+- Networking basics
+
+  ---
 
 ### 📫 Connect With Me
-- Email: unanneradzuma@gmail.com  
-- [LinkedIn](www.linkedin.com/in/unanne-radzuma-967634261)  
+-📧 Email: unanneradzuma@gmail.com  
+-💼 [LinkedIn](www.linkedin.com/in/unanne-radzuma-967634261)  
+
+---
+⭐️ From [Unanne](https://github.com/unanneR)
