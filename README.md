@@ -18,25 +18,25 @@ I’m passionate about building projects in **C#, Python, Web Development, and N
 ---
 
 ### 🚀 Projects
-🔹 [**Portfolio Website**](https://github.com/Unanne/portfolio) – My personal website showcasing projects and skills
+🔹 [**Portfolio Website**](https://github.com/UnanneR/portfolio) – My personal website showcasing projects and skills
 
-🔹 [**Data Visualizer**](https://github.com/Unanne/data-visualizer) – Python tool for interactive data visualization
+🔹 [**Data Visualizer**](https://github.com/UnanneR/data-visualizer) – Python tool for interactive data visualization
 
-🔹 [**Network Lab**](https://github.com/Unanne/network-lab) – Hands-on networking scripts and configs 
+🔹 [**Network Lab**](https://github.com/UnanneR/network-lab) – Hands-on networking scripts and configs 
 
-🔹 [**C# Projects**](https://github.com/Unanne/csharp-projects) – Small apps and experiments with C# and .NET
+🔹 [**C# Projects**](https://github.com/UnanneR/csharp-projects) – Small apps and experiments with C# and .NET
 
-🔹 [**Python Projects**](https://github.com/Unanne/portfolio) – Small apps and experiments with Python 
+🔹 [**Python Projects**](https://github.com/UnanneR/portfolio) – Small apps and experiments with Python 
 
-🔹 [**Android Projects**](https://github.com/Unanne/data-visualizer) –  Small apps and experiments in Android Studios
+🔹 [**Android Projects**](https://github.com/UnanneR/data-visualizer) –  Small apps and experiments in Android Studios
 
-🔹 [**Other Projects**](https://github.com/Unanne/network-lab) – Other projects i have worked on  
+🔹 [**Other Projects**](https://github.com/UnanneR/network-lab) – Other projects i have worked on  
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Unanne&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Unanne&layout=compact&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=UnanneR&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UnanneR&layout=compact&theme=radical)  
 
 ---
 
@@ -54,4 +54,4 @@ I’m passionate about building projects in **C#, Python, Web Development, and N
 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unanne-radzuma-967634261) 
 
 ---
-⭐️ From [Unanne](https://github.com/unanneR)
+⭐️ From [UnanneR](https://github.com/unanneR)
