@@ -30,7 +30,7 @@ I’m passionate about building projects in **C#, Python, Web Development, and N
 
 🔹 [**Android Projects**](https://github.com/UnanneR/data-visualizer) –  Small apps and experiments in Android Studios
 
-🔹 [**Other Projects**](https://github.com/UnanneR/network-lab) – Other projects i have worked on  
+🔹 [**Other Projects**](https://github.com/UnanneR/other-projects) – Other projects i have worked on  
 
 ---
 
