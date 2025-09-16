@@ -26,9 +26,9 @@ I’m passionate about building projects in **C#, Python, Web Development, and N
 
 🔹 [**C# Projects**](https://github.com/UnanneR/csharp-projects) – Small apps and experiments with C# and .NET
 
-🔹 [**Python Projects**](https://github.com/UnanneR/portfolio) – Small apps and experiments with Python 
+🔹 [**Python Projects**](https://github.com/UnanneR/python-projects) – Small apps and experiments with Python 
 
-🔹 [**Android Projects**](https://github.com/UnanneR/data-visualizer) –  Small apps and experiments in Android Studios
+🔹 [**Android Projects**](https://github.com/UnanneR/android-projects) –  Small apps and experiments in Android Studios
 
 🔹 [**Other Projects**](https://github.com/UnanneR/other-projects) – Other projects i have worked on  
 
