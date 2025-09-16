@@ -23,7 +23,7 @@ I’m passionate about building projects in **C#, Python, Web Development, and N
 🔹 [**Network Lab**](https://github.com/Unanne/network-lab) – Hands-on networking scripts and configs  
 🔹 [**C# Projects**](https://github.com/Unanne/csharp-projects) – Small apps and experiments with C# and .NET  
 🔹 [**Python Projects**](https://github.com/Unanne/python-projects) – Small apps and experiments with python
-🔹 [**Android Projects**](https://github.com/Unanne/Android-studios-projects) – Small apps and experiments with Android Studios
+🔹 [**Android Projects**](https://github.com/Unanne/Android-studios-projects) – experiments with Android Studios
 ---
 
 ## 📊 GitHub Stats
