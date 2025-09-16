@@ -22,7 +22,8 @@ I’m passionate about building projects in **C#, Python, Web Development, and N
 🔹 [**Data Visualizer**](https://github.com/Unanne/data-visualizer) – Python tool for interactive data visualization  
 🔹 [**Network Lab**](https://github.com/Unanne/network-lab) – Hands-on networking scripts and configs  
 🔹 [**C# Projects**](https://github.com/Unanne/csharp-projects) – Small apps and experiments with C# and .NET  
-
+🔹 [**Python Projects**](https://github.com/Unanne/python-projects) – Small apps and experiments with python
+🔹 [**Android Projects**](https://github.com/Unanne/Android-studios-projects) – Small apps and experiments with Android Studios
 ---
 
 ## 📊 GitHub Stats
