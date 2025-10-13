@@ -24,7 +24,7 @@ I’m passionate about building projects in **C#, Python, Web Development, and N
 
 🔹 [**Network Lab**](https://github.com/UnanneR/network-lab) – Hands-on networking scripts and configs 
 
-🔹 [**C# Projects**](https://github.com/UnanneR/csharp-projects) – Small apps and experiments with C# and .NET
+🔹 [**C# Projects**](https://github.com/UnanneR/c-projects) – Small apps and experiments with C# and .NET
 
 🔹 [**Python Projects**](https://github.com/UnanneR/python-projects) – Small apps and experiments with Python 
 
