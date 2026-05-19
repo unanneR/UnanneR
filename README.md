@@ -15,24 +15,6 @@ I’m passionate about building projects in **C#, Python, Web Development, and N
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cybersecurity](https://img.shields.io/badge/Security-2E8B57?style=for-the-badge&logo=hackaday&logoColor=white)
 
----
-
-### 🚀 Projects
-🔹 [**Portfolio Website**](https://github.com/UnanneR/portfolio) – My personal website showcasing projects and skills
-
-🔹 [**Data Visualizer**](https://github.com/UnanneR/data-visualizer) – Python tool for interactive data visualization
-
-🔹 [**Network Lab**](https://github.com/UnanneR/network-lab) – Hands-on networking scripts and configs 
-
-🔹 [**C# Projects**](https://github.com/UnanneR/c-projects) – Small apps and experiments with C# and .NET
-
-🔹 [**Python Projects**](https://github.com/UnanneR/python-projects) – Small apps and experiments with Python 
-
-🔹 [**Android Projects**](https://github.com/UnanneR/android-projects) –  Small apps and experiments in Android Studios
-
-🔹 [**Other Projects**](https://github.com/UnanneR/other-projects) – Other projects i have worked on  
-
----
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=UnanneR&show_icons=true&theme=radical)  
