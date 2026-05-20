@@ -1,39 +1,53 @@
-# Hi, I'm Unanne 👋
+# Hi, I'm Unanne Radzuma 👋
 
-💻 Aspiring Software Developer | 🌍 Based in Pretoria, South Africa  
-I’m passionate about building projects in **C#, Python, Web Development, and Networking**, and always learning new technologies. 
+### 🚀 About Me
 
----
+[cite_start]I am a software engineer and technical systems strategist focused on designing secure, resilient, and high-availability enterprise architectures[cite: 7, 8]. [cite_start]My approach to technology bridges the gap between clean programmatic execution and robust defense-in-depth infrastructure[cite: 7, 8].
 
-### 🔧 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cybersecurity](https://img.shields.io/badge/Security-2E8B57?style=for-the-badge&logo=hackaday&logoColor=white)
+Rather than focusing solely on repetitive coding loops, I look at technology through an architectural lens. [cite_start]I thrive on engineering the underlying frameworks, traffic rules, data governance structures, and failover strategies that allow large-scale applications to run securely and seamlessly under pressure[cite: 8, 48, 55]. [cite_start]I view software engineering not just as writing syntax, but as building reliable digital ecosystems that protect data integrity and optimize performance[cite: 8, 33, 48].
 
+### 🧠 Core Philosophy & Strategic Focus
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=UnanneR&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UnanneR&layout=compact&theme=radical)  
+* [cite_start]**Architecture over Monotony:** I focus on technical strategy, object-oriented systems design, and structural planning[cite: 9, 12]. [cite_start]I enjoy mapping out complex systems constraints and designing enterprise-grade networks from the ground up[cite: 8].
+* [cite_start]**Security-First Engineering:** I believe security is an foundational requirement, not an afterthought[cite: 7]. [cite_start]From implementing strict role-based access controls across SQL and NoSQL databases to engineering segmented multi-site network topologies, I design to minimize attack surfaces and eliminate single points of failure[cite: 26, 33].
+* [cite_start]**Thriving in High-Stakes Environments:** My background includes driving technical execution under strict constraints, whether that means orchestrating real-time solutions during high-pressure software sprints or coordinating technical production where system downtime is not an option[cite: 38, 55, 60]. 
+
+### ⚡ Technical Arsenal
+
+* [cite_start]**Strategic Ecosystems:** System Architecture, Network Security, Infrastructure Isolation (VLANs, ACLs), Cloud Deployment (AWS & Azure), AI Ethics & Data Privacy[cite: 7, 12, 26].
+* [cite_start]**Languages & Paradigms:** C#/.NET, Python, Java, C++, JavaScript, Object-Oriented Analysis & Design, Agile/Scrum Frameworks[cite: 7, 12].
+* [cite_start]**Data Infrastructure:** Relational Schemas (Oracle SQL), Document Modeling (MongoDB), Big Data integration, and strict Data Governance[cite: 12, 32, 41, 48].
 
 ---
 
-### 🌱 Currently Learning
-- Cybersecurity fundamentals (network defense, penetration testing)  
-- Advanced C# and .NET
-- Networking basics
+🎯 *“Architecture dictates sustainability. Security ensures survival. I build for both.”*
 
-  ---
+---
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/unanne-radzuma-967634261) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27648750/unanne-radzuma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:unanneradzuma@gmail.com) 
+---
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+(https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=UnanneR&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=UnanneR&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=UnanneR&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
 ### 📫 Connect With Me
-👨‍💻 Don’t hesitate to get in touch — you can reach me at **unanneradzuma@gmail.com** to chat about **software engineering,cybersecurity, or career growth in tech.**.  
+👨‍💻 Don’t hesitate to get in touch.
+You can reach me at **unanneradzuma@gmail.com** to chat about **software engineering,cybersecurity, or career growth in tech.**.  
 🚀 Collaboration: Open to exciting projects with curious and creative minds.   
 📧 Email: unanneradzuma@gmail.com  
 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unanne-radzuma-967634261) 
-
+---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=UnanneR&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 ---
 ⭐️ From [UnanneR](https://github.com/unanneR)
