@@ -5,34 +5,6 @@
 I am a software engineer and technical systems strategist focused on designing secure, resilient, and high-availability enterprise architectures. My approach to technology bridges the gap between clean programmatic execution and robust defense-in-depth infrastructure.
 
 By looking at technology through an architectural lens, I focus on engineering the underlying frameworks, traffic rules, data governance structures, and failover strategies that allow large-scale applications to run securely and seamlessly under pressure. I view software engineering not just as writing syntax, but as building reliable digital ecosystems that protect data integrity and optimize performance.
-
----
-
-## 🧠 Core Philosophy & Strategic Focus
-
-*   **Architecture & Strategy:** I focus on technical strategy, object-oriented systems design, and structural planning. I thrive when mapping out complex systems constraints and designing enterprise-grade networks from the ground up.
-*   **Security-First Engineering:** I believe security is a foundational requirement, not an afterthought. From implementing strict role-based access controls across SQL and NoSQL databases to engineering segmented multi-site network topologies, I design to minimize attack surfaces and eliminate single points of failure.
-*   **Thriving in High-Stakes Environments:** My background includes driving technical execution under strict constraints, whether that means orchestrating real-time solutions during high-pressure software sprints or coordinating technical production where system downtime is not an option.
-
----
-
-## ⚡ Technical Arsenal
-
-### 🌐 Strategic Ecosystems
-*   System Architecture & Object-Oriented Analysis & Design (OOAD)
-*   Network Security & Infrastructure Isolation (VLANs, ACLs)
-*   Cloud Deployment (AWS & Azure)
-*   AI Ethics, Data Privacy & Governance
-
-### 💻 Languages & Paradigms
-*   **Backend & Systems:** C#/.NET, Java, C++, Python
-*   **Frontend & Scripting:** JavaScript, HTML5, CSS3
-*   **Frameworks & Methodologies:** Agile/Scrum Frameworks
-
-### 🗄️ Data Infrastructure
-*   **Relational Databases:** Oracle SQL
-*   **NoSQL / Document Modeling:** MongoDB
-*   **Big Data:** Core Big Data integration strategies
 ---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/unanne-radzuma-967634261) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27648750/unanne-radzuma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:unanneradzuma@gmail.com) 
