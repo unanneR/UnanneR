@@ -41,4 +41,9 @@ You can reach me at **unanneradzuma@gmail.com** to chat about **software enginee
 ![](https://github-contributor-stats.vercel.app/api?username=UnanneR&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
+### 📜 Certifications
+* **CompTIA Network+ ce** – CompTIA (Issued Jul 2026 · Expires Jul 2029)
+  * **Credential ID:** COMP001022862939
+  * [Verify Credential](http://verify.CompTIA.org) (Code: `359c5b9c96a3446ca332b3aeabbdeade`)
+  * 
 ⭐️ From [UnanneR](https://github.com/unanneR)
